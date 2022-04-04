@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-TARGETDURATION:7
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:6.214542,
+https://raw.mserver.site/asydhf400/alsona/main/1649069367480/js/part-0.js
+#EXTINF:6.464792,
+https://raw.mserver.site/asydhf400/alsona/main/1649069367480/js/part-1.js
+#EXTINF:6.381375,
+https://raw.mserver.site/asydhf400/alsona/main/1649069367480/js/part-2.js
+#EXTINF:7.632625,
+https://raw.mserver.site/asydhf400/alsona/main/1649069367480/js/part-3.js
+#EXTINF:5.296958,
+https://raw.mserver.site/asydhf400/alsona/main/1649069367480/js/part-4.js
+#EXT-X-ENDLIST
